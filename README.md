@@ -2,7 +2,7 @@
 ACM RecSys Challenge 2016: Job recommender system for XING
 
 ## Authors
-Sonu Mishra https://www.linkedin.com/in/mishrasonu/
+Sonu Mishra https://www.linkedin.com/in/mishrasonu/  
 Manoj Reddy https://www.linkedin.com/in/manoj1992/
 
 ## Abstract
