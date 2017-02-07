@@ -1,0 +1,8 @@
+*.log
+*.aux
+*.rar
+*.swp
+*.tgz
+*.gz
+*.tar
+*data/old*
